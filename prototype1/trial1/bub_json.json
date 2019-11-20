@@ -1,0 +1,1100 @@
+{
+    "name": "phrases",
+    "children": [
+        {
+            "name": 1,
+            "children": [
+                {
+                    "size": 40,
+                    "name": "of"
+                },
+                {
+                    "size": 2,
+                    "name": "services"
+                },
+                {
+                    "size": 40,
+                    "name": "business"
+                },
+                {
+                    "size": 23,
+                    "name": "requirements"
+                },
+                {
+                    "size": 17,
+                    "name": "document"
+                },
+                {
+                    "size": 8,
+                    "name": "project"
+                },
+                {
+                    "size": 3,
+                    "name": "-"
+                },
+                {
+                    "size": 2,
+                    "name": "version"
+                },
+                {
+                    "size": 3,
+                    "name": "3.2"
+                },
+                {
+                    "size": 2,
+                    "name": "revision"
+                },
+                {
+                    "size": 2,
+                    "name": "date"
+                },
+                {
+                    "size": 3,
+                    "name": "2019"
+                },
+                {
+                    "size": 4,
+                    "name": "description"
+                },
+                {
+                    "size": 2,
+                    "name": "1."
+                },
+                {
+                    "size": 3,
+                    "name": "introduction"
+                },
+                {
+                    "size": 5,
+                    "name": "5"
+                },
+                {
+                    "size": 3,
+                    "name": "1.1"
+                },
+                {
+                    "size": 3,
+                    "name": "overview"
+                },
+                {
+                    "size": 2,
+                    "name": "1.2"
+                },
+                {
+                    "size": 3,
+                    "name": "references"
+                },
+                {
+                    "size": 2,
+                    "name": "1.3"
+                },
+                {
+                    "size": 2,
+                    "name": "glossary"
+                },
+                {
+                    "size": 2,
+                    "name": "terms"
+                },
+                {
+                    "size": 2,
+                    "name": "2."
+                },
+                {
+                    "size": 7,
+                    "name": "summary"
+                },
+                {
+                    "size": 6,
+                    "name": "6"
+                },
+                {
+                    "size": 2,
+                    "name": "2.1"
+                },
+                {
+                    "size": 3,
+                    "name": "goals"
+                },
+                {
+                    "size": 29,
+                    "name": "and"
+                },
+                {
+                    "size": 3,
+                    "name": "objectives"
+                },
+                {
+                    "size": 2,
+                    "name": "2.2"
+                },
+                {
+                    "size": 2,
+                    "name": "problem"
+                },
+                {
+                    "size": 2,
+                    "name": "statement"
+                },
+                {
+                    "size": 2,
+                    "name": "2.3"
+                },
+                {
+                    "size": 2,
+                    "name": "2.4"
+                },
+                {
+                    "size": 3,
+                    "name": "scope"
+                },
+                {
+                    "size": 2,
+                    "name": "2.5"
+                },
+                {
+                    "size": 4,
+                    "name": "stakeholders"
+                },
+                {
+                    "size": 2,
+                    "name": "2.6"
+                },
+                {
+                    "size": 2,
+                    "name": "functionality"
+                },
+                {
+                    "size": 5,
+                    "name": "7"
+                },
+                {
+                    "size": 2,
+                    "name": "2.7"
+                },
+                {
+                    "size": 2,
+                    "name": "constraints"
+                },
+                {
+                    "size": 2,
+                    "name": "2.8"
+                },
+                {
+                    "size": 3,
+                    "name": "assumptions"
+                },
+                {
+                    "size": 3,
+                    "name": "dependencies"
+                },
+                {
+                    "size": 2,
+                    "name": "2.9"
+                },
+                {
+                    "size": 2,
+                    "name": "planning"
+                },
+                {
+                    "size": 14,
+                    "name": "for"
+                },
+                {
+                    "size": 4,
+                    "name": "future"
+                },
+                {
+                    "size": 2,
+                    "name": "phases"
+                },
+                {
+                    "size": 11,
+                    "name": "or"
+                },
+                {
+                    "size": 2,
+                    "name": "releases"
+                },
+                {
+                    "size": 2,
+                    "name": "3."
+                },
+                {
+                    "size": 3,
+                    "name": "process"
+                },
+                {
+                    "size": 3,
+                    "name": "flow"
+                },
+                {
+                    "size": 2,
+                    "name": "charting"
+                },
+                {
+                    "size": 11,
+                    "name": "diagrams"
+                },
+                {
+                    "size": 2,
+                    "name": "3.1"
+                },
+                {
+                    "size": 8,
+                    "name": "as"
+                },
+                {
+                    "size": 18,
+                    "name": "is"
+                },
+                {
+                    "size": 24,
+                    "name": "to"
+                },
+                {
+                    "size": 21,
+                    "name": "be"
+                },
+                {
+                    "size": 2,
+                    "name": "4."
+                },
+                {
+                    "size": 6,
+                    "name": "traceability"
+                },
+                {
+                    "size": 8,
+                    "name": "matrix"
+                },
+                {
+                    "size": 6,
+                    "name": "10"
+                },
+                {
+                    "size": 2,
+                    "name": "5."
+                },
+                {
+                    "size": 2,
+                    "name": "appendices"
+                },
+                {
+                    "size": 2,
+                    "name": "a."
+                },
+                {
+                    "size": 5,
+                    "name": "input"
+                },
+                {
+                    "size": 2,
+                    "name": "(brim)"
+                },
+                {
+                    "size": 3,
+                    "name": "template"
+                },
+                {
+                    "size": 2,
+                    "name": "b."
+                },
+                {
+                    "size": 2,
+                    "name": "(rtm)"
+                },
+                {
+                    "size": 2,
+                    "name": "c."
+                },
+                {
+                    "size": 2,
+                    "name": "sample"
+                },
+                {
+                    "size": 15,
+                    "name": "brd"
+                },
+                {
+                    "size": 2,
+                    "name": "d."
+                },
+                {
+                    "size": 6,
+                    "name": "reference"
+                },
+                {
+                    "size": 4,
+                    "name": "[the"
+                },
+                {
+                    "size": 76,
+                    "name": "the"
+                },
+                {
+                    "size": 8,
+                    "name": "should"
+                },
+                {
+                    "size": 9,
+                    "name": "provide"
+                },
+                {
+                    "size": 9,
+                    "name": "an"
+                },
+                {
+                    "size": 2,
+                    "name": "brd."
+                },
+                {
+                    "size": 12,
+                    "name": "this"
+                },
+                {
+                    "size": 14,
+                    "name": "a"
+                },
+                {
+                    "size": 2,
+                    "name": "pages]"
+                },
+                {
+                    "size": 3,
+                    "name": "lot"
+                },
+                {
+                    "size": 3,
+                    "name": "1-5"
+                },
+                {
+                    "size": 7,
+                    "name": "it"
+                },
+                {
+                    "size": 2,
+                    "name": "contractors"
+                },
+                {
+                    "size": 11,
+                    "name": "in"
+                },
+                {
+                    "size": 6,
+                    "name": "\u2013"
+                },
+                {
+                    "size": 4,
+                    "name": "appendix"
+                },
+                {
+                    "size": 4,
+                    "name": "brim"
+                },
+                {
+                    "size": 2,
+                    "name": "can"
+                },
+                {
+                    "size": 3,
+                    "name": "used"
+                },
+                {
+                    "size": 4,
+                    "name": "requirements,"
+                },
+                {
+                    "size": 3,
+                    "name": "generated"
+                },
+                {
+                    "size": 5,
+                    "name": "from"
+                },
+                {
+                    "size": 4,
+                    "name": "tfs"
+                },
+                {
+                    "size": 2,
+                    "name": "populated"
+                },
+                {
+                    "size": 3,
+                    "name": "with"
+                },
+                {
+                    "size": 2,
+                    "name": "into"
+                },
+                {
+                    "size": 2,
+                    "name": "loaded"
+                },
+                {
+                    "size": 2,
+                    "name": "additional"
+                },
+                {
+                    "size": 3,
+                    "name": "information"
+                },
+                {
+                    "size": 8,
+                    "name": "by"
+                },
+                {
+                    "size": 4,
+                    "name": "use"
+                },
+                {
+                    "size": 2,
+                    "name": "test"
+                },
+                {
+                    "size": 4,
+                    "name": "cases"
+                },
+                {
+                    "size": 8,
+                    "name": "example"
+                },
+                {
+                    "size": 2,
+                    "name": "(appendix"
+                },
+                {
+                    "size": 3,
+                    "name": "c)"
+                },
+                {
+                    "size": 7,
+                    "name": "[this"
+                },
+                {
+                    "size": 7,
+                    "name": "subsection"
+                },
+                {
+                    "size": 2,
+                    "name": "should:"
+                },
+                {
+                    "size": 2,
+                    "name": "a)"
+                },
+                {
+                    "size": 2,
+                    "name": "b)"
+                },
+                {
+                    "size": 2,
+                    "name": "specify"
+                },
+                {
+                    "size": 2,
+                    "name": "brd;"
+                },
+                {
+                    "size": 3,
+                    "name": "list"
+                },
+                {
+                    "size": 2,
+                    "name": "all"
+                },
+                {
+                    "size": 2,
+                    "name": "(if"
+                },
+                {
+                    "size": 2,
+                    "name": "which"
+                },
+                {
+                    "size": 4,
+                    "name": "may"
+                },
+                {
+                    "size": 3,
+                    "name": "provided"
+                },
+                {
+                    "size": 2,
+                    "name": "required"
+                },
+                {
+                    "size": 2,
+                    "name": "more"
+                },
+                {
+                    "size": 2,
+                    "name": "other"
+                },
+                {
+                    "size": 3,
+                    "name": "section"
+                },
+                {
+                    "size": 6,
+                    "name": "will"
+                },
+                {
+                    "size": 3,
+                    "name": "not"
+                },
+                {
+                    "size": 4,
+                    "name": "[describe"
+                },
+                {
+                    "size": 3,
+                    "name": "specific"
+                },
+                {
+                    "size": 3,
+                    "name": "are"
+                },
+                {
+                    "size": 4,
+                    "name": "that"
+                },
+                {
+                    "size": 2,
+                    "name": "project.]"
+                },
+                {
+                    "size": 2,
+                    "name": "essential"
+                },
+                {
+                    "size": 2,
+                    "name": "processes"
+                },
+                {
+                    "size": 2,
+                    "name": "processes,"
+                },
+                {
+                    "size": 2,
+                    "name": "must"
+                },
+                {
+                    "size": 3,
+                    "name": "support"
+                },
+                {
+                    "size": 2,
+                    "name": "dpw/bis"
+                },
+                {
+                    "size": 2,
+                    "name": "product"
+                },
+                {
+                    "size": 2,
+                    "name": "associated"
+                },
+                {
+                    "size": 2,
+                    "name": "operations"
+                },
+                {
+                    "size": 2,
+                    "name": "sections"
+                },
+                {
+                    "size": 3,
+                    "name": "document."
+                },
+                {
+                    "size": 2,
+                    "name": "any"
+                },
+                {
+                    "size": 2,
+                    "name": "system"
+                },
+                {
+                    "size": 2,
+                    "name": "using"
+                },
+                {
+                    "size": 2,
+                    "name": "these"
+                },
+                {
+                    "size": 2,
+                    "name": "systems"
+                },
+                {
+                    "size": 2,
+                    "name": "[insert"
+                },
+                {
+                    "size": 2,
+                    "name": "scanning"
+                },
+                {
+                    "size": 2,
+                    "name": "invoice"
+                },
+                {
+                    "size": 2,
+                    "name": "processing"
+                },
+                {
+                    "size": 2,
+                    "name": "rtm"
+                },
+                {
+                    "size": 2,
+                    "name": "out"
+                },
+                {
+                    "size": 2,
+                    "name": "throughout"
+                },
+                {
+                    "size": 2,
+                    "name": "software"
+                },
+                {
+                    "size": 3,
+                    "name": "attached"
+                }
+            ]
+        },
+        {
+            "name": 3,
+            "children": [
+                {
+                    "size": 2,
+                    "name": "business requirements document"
+                },
+                {
+                    "size": 2,
+                    "name": "11 document overview"
+                },
+                {
+                    "size": 2,
+                    "name": "13 glossary of"
+                },
+                {
+                    "size": 2,
+                    "name": "glossary of terms"
+                },
+                {
+                    "size": 2,
+                    "name": "2 business requirements"
+                },
+                {
+                    "size": 2,
+                    "name": "business requirements summary"
+                },
+                {
+                    "size": 2,
+                    "name": "21 business goals"
+                },
+                {
+                    "size": 2,
+                    "name": "business goals and"
+                },
+                {
+                    "size": 3,
+                    "name": "goals and objectives"
+                },
+                {
+                    "size": 2,
+                    "name": "22 problem statement"
+                },
+                {
+                    "size": 2,
+                    "name": "23 project description"
+                },
+                {
+                    "size": 2,
+                    "name": "26 business functionality"
+                },
+                {
+                    "size": 2,
+                    "name": "business functionality summary"
+                },
+                {
+                    "size": 2,
+                    "name": "27 business constraints"
+                },
+                {
+                    "size": 2,
+                    "name": "28 business assumptions"
+                },
+                {
+                    "size": 2,
+                    "name": "business assumptions and"
+                },
+                {
+                    "size": 3,
+                    "name": "assumptions and dependencies"
+                },
+                {
+                    "size": 2,
+                    "name": "29 planning of"
+                },
+                {
+                    "size": 2,
+                    "name": "planning of business"
+                },
+                {
+                    "size": 2,
+                    "name": "of business requirements"
+                },
+                {
+                    "size": 3,
+                    "name": "business requirements for"
+                },
+                {
+                    "size": 2,
+                    "name": "requirements for future"
+                },
+                {
+                    "size": 2,
+                    "name": "for future phases"
+                },
+                {
+                    "size": 2,
+                    "name": "future phases or"
+                },
+                {
+                    "size": 2,
+                    "name": "phases or releases"
+                },
+                {
+                    "size": 2,
+                    "name": "3 business process"
+                },
+                {
+                    "size": 2,
+                    "name": "business process flow"
+                },
+                {
+                    "size": 2,
+                    "name": "process flow charting"
+                },
+                {
+                    "size": 2,
+                    "name": "flow charting and"
+                },
+                {
+                    "size": 2,
+                    "name": "charting and diagrams"
+                },
+                {
+                    "size": 2,
+                    "name": "31 as is"
+                },
+                {
+                    "size": 3,
+                    "name": "as is diagrams"
+                },
+                {
+                    "size": 2,
+                    "name": "32 to be"
+                },
+                {
+                    "size": 3,
+                    "name": "to be diagrams"
+                },
+                {
+                    "size": 2,
+                    "name": "4 requirements traceability"
+                },
+                {
+                    "size": 5,
+                    "name": "requirements traceability matrix"
+                },
+                {
+                    "size": 2,
+                    "name": "a business requirements"
+                },
+                {
+                    "size": 3,
+                    "name": "business requirements input"
+                },
+                {
+                    "size": 3,
+                    "name": "requirements input matrix"
+                },
+                {
+                    "size": 2,
+                    "name": "input matrix (brim)"
+                },
+                {
+                    "size": 2,
+                    "name": "matrix (brim) template"
+                },
+                {
+                    "size": 2,
+                    "name": "b requirements traceability"
+                },
+                {
+                    "size": 2,
+                    "name": "traceability matrix (rtm)"
+                },
+                {
+                    "size": 2,
+                    "name": "c sample brd"
+                },
+                {
+                    "size": 2,
+                    "name": "sample brd document"
+                },
+                {
+                    "size": 2,
+                    "name": "d brd reference"
+                },
+                {
+                    "size": 2,
+                    "name": "brd reference document"
+                },
+                {
+                    "size": 5,
+                    "name": "of the brd"
+                },
+                {
+                    "size": 4,
+                    "name": "the brd should"
+                },
+                {
+                    "size": 3,
+                    "name": "brd should provide"
+                },
+                {
+                    "size": 3,
+                    "name": "the lot 1-5"
+                },
+                {
+                    "size": 4,
+                    "name": "the business requirements"
+                },
+                {
+                    "size": 2,
+                    "name": "be used to"
+                },
+                {
+                    "size": 2,
+                    "name": "and test cases"
+                },
+                {
+                    "size": 2,
+                    "name": "[this subsection should:"
+                },
+                {
+                    "size": 2,
+                    "name": "subsection should: a)"
+                },
+                {
+                    "size": 2,
+                    "name": "this information may"
+                },
+                {
+                    "size": 2,
+                    "name": "information may be"
+                },
+                {
+                    "size": 2,
+                    "name": "may be provided"
+                },
+                {
+                    "size": 2,
+                    "name": "be provided by"
+                },
+                {
+                    "size": 2,
+                    "name": "provided by reference"
+                },
+                {
+                    "size": 3,
+                    "name": "by reference to"
+                },
+                {
+                    "size": 2,
+                    "name": "summary of the"
+                },
+                {
+                    "size": 2,
+                    "name": "of the business"
+                },
+                {
+                    "size": 2,
+                    "name": "of the project"
+                },
+                {
+                    "size": 2,
+                    "name": "the business problem]"
+                },
+                {
+                    "size": 2,
+                    "name": "of the project]"
+                },
+                {
+                    "size": 2,
+                    "name": "of this document"
+                },
+                {
+                    "size": 4,
+                    "name": "subsection of the"
+                },
+                {
+                    "size": 2,
+                    "name": "should provide a"
+                },
+                {
+                    "size": 3,
+                    "name": "[this subsection of"
+                },
+                {
+                    "size": 2,
+                    "name": "business requirements to"
+                },
+                {
+                    "size": 2,
+                    "name": "requirements to be"
+                },
+                {
+                    "size": 2,
+                    "name": "\u2013 as is"
+                },
+                {
+                    "size": 2,
+                    "name": "generated out of"
+                },
+                {
+                    "size": 3,
+                    "name": "[the attached document"
+                },
+                {
+                    "size": 2,
+                    "name": "attached document is"
+                },
+                {
+                    "size": 2,
+                    "name": "is an example"
+                },
+                {
+                    "size": 2,
+                    "name": "an example of"
+                },
+                {
+                    "size": 2,
+                    "name": "document [the attached"
+                }
+            ]
+        },
+        {
+            "name": 2,
+            "children": [
+                {
+                    "size": 8,
+                    "name": "business requirements"
+                },
+                {
+                    "size": 2,
+                    "name": "of terms"
+                },
+                {
+                    "size": 2,
+                    "name": "business goals"
+                },
+                {
+                    "size": 2,
+                    "name": "of business"
+                },
+                {
+                    "size": 2,
+                    "name": "for future"
+                },
+                {
+                    "size": 2,
+                    "name": "or releases"
+                },
+                {
+                    "size": 3,
+                    "name": "as is"
+                },
+                {
+                    "size": 2,
+                    "name": "be diagrams"
+                },
+                {
+                    "size": 2,
+                    "name": "4 requirements"
+                },
+                {
+                    "size": 2,
+                    "name": "brd document"
+                },
+                {
+                    "size": 8,
+                    "name": "of the"
+                },
+                {
+                    "size": 3,
+                    "name": "should provide"
+                },
+                {
+                    "size": 3,
+                    "name": "lot 1-5"
+                },
+                {
+                    "size": 2,
+                    "name": "the brim"
+                },
+                {
+                    "size": 2,
+                    "name": "can be"
+                },
+                {
+                    "size": 3,
+                    "name": "to be"
+                },
+                {
+                    "size": 5,
+                    "name": "the brd"
+                },
+                {
+                    "size": 2,
+                    "name": "the brd;"
+                },
+                {
+                    "size": 2,
+                    "name": "not be"
+                },
+                {
+                    "size": 2,
+                    "name": "by business"
+                },
+                {
+                    "size": 2,
+                    "name": "business problem]"
+                },
+                {
+                    "size": 2,
+                    "name": "business operations"
+                },
+                {
+                    "size": 2,
+                    "name": "document this"
+                },
+                {
+                    "size": 2,
+                    "name": "to provide"
+                },
+                {
+                    "size": 3,
+                    "name": "attached document"
+                }
+            ]
+        }
+    ]
+}

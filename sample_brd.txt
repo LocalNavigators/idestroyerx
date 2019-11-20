@@ -1,0 +1,137 @@
+PENNSYLVANIA DEPARTMENT OF HUMAN SERVICES
+Business Requirements Document
+ 
+
+Project Name - ay
+Business Requirements Document
+Version 3.2
+Revision Date - Sept 16, 2019
+ 
+
+Revision History
+Date 	Version	Description	Author
+Apr 20, 2019	Sumeet Kumar
+Jun 25, 2019	Parth Parkhani
+			
+			
+ 
+Table of Contents
+1.	Introduction	5
+1.1	Document Overview	5
+1.2	References	5
+1.3	Glossary of Terms	5
+2.	Business Requirements Summary	6
+2.1	Business Goals and Objectives	6
+2.2	Problem Statement	6
+2.3	Project Description	6
+2.4	Scope	6
+2.5	Stakeholders	6
+2.6	Business Functionality Summary	7
+2.7	Business Constraints	7
+2.8	Business Assumptions and Dependencies	7
+2.9	Planning of Business Requirements for Future Phases or Releases	7
+3.	Business Process Flow Charting and Diagrams	7
+3.1	As Is Diagrams	8
+3.2	To Be Diagrams	9
+4.	Requirements Traceability Matrix	10
+5.	Appendices	10
+A.	Business Requirements Input Matrix (BRIM) Template	10
+B.	Requirements Traceability Matrix (RTM)	10
+C.	Sample BRD Document	10
+D.	BRD Reference Document	11
+
+ 
+1.	Introduction
+	[The introduction of the BRD should provide an overview of the entire BRD. This narrative should be a maximum of 3 pages]
+
+		1.1	Document Overview
+			The Lot 1-5 IT Consulting Services contractors document project business requirements in the Business Requirements Input Matrix (BRIM – Appendix A).   Before the BRIM template can be used to document requirements, however, it needs to be generated from Team Foundation Server (TFS) in order to establish the correct TFS application path and iteration.  After the BRIM is fully populated with the business requirements, the Lot 1-5 contractor loads the BRIM into TFS.  The loaded BRIM, in combination with additional linked information later entered by the participating contractors (system requirements, use cases, and test cases (Integration, SAT, and UAT)),  allow for the generation of the Requirements Traceability Matrix (RTM - Appendix B).  For additional assistance, consult the BRD example (Appendix C) and the BRD Guideline (Appendix D).
+
+			[This subsection should:
+			a)	Delineate the purpose of the BRD:
+			b) 	Specify the intended audience for the BRD;
+			c) 	Summarize BRD Organization and Content.]
+
+		1.2	References
+			[This subsection should:
+			a)	Provide a complete list of all documents referenced elsewhere in the BRD;
+
+			b)	Identify each document by title, report number (if applicable), date, and publishing organization;
+
+			c) 	Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or another document.]
+
+		1.3	Glossary of Terms
+			[This subsection should provide the definitions of all terms, acronyms, and abbreviations required to properly interpret the BRD. This information may be provided by reference to one or more appendixes in the BRD or by reference to other documents.]
+
+2.	Business Requirements Summary
+	[Provide an overall summary of the business requirements for the initiative – The length of this section will vary, but should not be more than 5 to 10 pages]
+
+	2.1	Business Goals and Objectives
+		[Describe goals and objectives. The goal is set by business owners.  It is the reason the project was created.  It sets forth the ultimate outcome of the project in business terms.  It is generally not quantifiable, time-dependent or suggestive of specific actions for its achievement.  Objectives are specific ends, conditions, or states that are steps toward attaining a goal. They should be achievable, measurable and time-specific.]
+
+	2.2	Problem Statement
+		[Describe the business reason(s) for initiating the project, specifically stating the business problem.]
+
+	2.3	Project Description
+		[Describe the approach the project will use to address the business problem.].
+
+	2.4	Scope
+		[Define the scope of the project.]
+
+	2.5	Stakeholders
+		[Identify the stakeholders with responsibility for either managing, performing, or placing essential requirements on the processes being documented. For tightly-coupled business processes, those responsible for the adjacent business processes and/or functions must be documented and considered for inclusion as a stakeholder. A specific interface module may or may not be known/impacted at this time, if it is known it must be listed.]				
+	
+	[SAMPLE] Stakeholders List:
+
+	Agency/Bureau	Stakeholder	Support Role	Interfaces
+	DPW/OIM	Eric Graves	Eligibility	N/A
+	DPW/BIS	Robert Ziegler	Middleware	MSUAPP01
+	DPW/BIS	Ebby Abraham	Data Warehouse	DWRpt001
+
+	2.6	Business Functionality Summary
+		[This section will provide a business functional summary of the desired end product required to support the agency mission, and associated business operations from an enterprise perspective derived from the business vision and from the subsequent sections of this document. This subsection of the BRD should provide a summary description of the core essential functions, decomposition, and business reference model to support business operations.]
+
+	2.7	Business Constraints
+		[This subsection of the BRD should provide a list of any other items that will limit the business operations or solution options.]
+
+	2.8	Business Assumptions and Dependencies
+		[This subsection of the BRD should list assumptions and dependencies used in developing this BRD.]
+
+	2.9	Planning of Business Requirements for Future Phases or Releases
+		[This subsection of the BRD identifies any business requirements to be delayed until future versions of the system – essentially, a “Parking Lot” of identified business requirements to be accounted for in implementation of a future “phase” or release of the project.]
+
+3.	Business Process Flow Charting and Diagrams
+	[Describe the current existing and proposed high level process workflow using flow diagrams (using Visio Flowcharts) and supporting narratives. These diagrams representing processes, are to provide a mapping and standard notation readily understandable by business stakeholders. Consequently, these diagrams serve as a common flowcharting language, bridging the communication gap that frequently occurs between the Business Requirements Documentation and the Systems Requirements Documentation. This will also form an input for the SRD phase of the project to commence system requirements use cases within the SRD.]
+
+
+	3.1	As Is Diagrams
+		[Insert As Is diagrams here]
+		Example 1A – As Is Scanning 
+	 	Example 2A – As Is Invoice Processing
+
+	3.2	To Be Diagrams
+		[Insert To Be diagrams here (if applicable)]
+		Example 1B– To Be Scanning 
+		Example 2B – To Be Invoice Processing
+ 
+
+4.	Requirements Traceability Matrix
+	[ The RTM is generated out of TFS using input as described in Section 1.1 of this document.  The TFS is a dynamic document and deliverable artifact that will be periodically updated and reviewed throughout the SDLC phases. The RTM,an example of which is provided in Appendix B of this document, shall be used to provide bidirectional traceability of the business requirements of the software product to the associated systems requirements, use cases and test cases throughout the software development life cycle.]
+
+5.	Appendices
+	A.	Business Requirements Input Matrix (BRIM) Template
+		[The attached document is the BRIM template, to be populated and loaded into TFS by the Lot 1-5 contractor.]
+
+	 
+	B.	Requirements Traceability Matrix (RTM) 
+		[Attached is an example of the RTM generated out of TFS.] 
+	 
+
+	C.	Sample BRD Document
+		[The attached document is an example of a completed BRD document. This document is purposely an abbreviated document that’s only intent is to provide an example.]
+
+ 
+
+
+D.	BRD Reference Document
+[The attached document describes the BRD sections and fields in greater detail.]

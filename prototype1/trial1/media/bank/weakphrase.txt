@@ -1,0 +1,81 @@
+adaptable
+adequate
+as appropriate
+as required
+bad
+be able to
+be capable of
+capability of
+capability to
+clear
+easy
+easy to
+effective
+etc
+fast
+flexible
+good
+maximize
+minimize
+normal
+provide for
+rapid
+similar
+support
+timely
+useful
+
+legacy data
+shall
+must
+is required to
+are applicable
+are to
+responsible for
+will
+should
+would
+ignore
+note
+action
+propose
+enact
+animate
+inanimate
+use
+connect
+communicate
+comprehend
+comprehensible
+clear
+actionable
+do
+done
+tell
+let me know
+buy
+sell
+buy-in
+train
+dive
+dive-in
+Disambiguate
+Disconnect 
+connect
+disrupt
+drill
+drill down
+brainstorm
+drop
+take
+take-up
+deliver
+empower
+go
+going
+maximize
+move
+minimize
+out
+raise
+take

@@ -1,0 +1,57 @@
+<style>
+#button1{
+    width: 300px;
+    height: 40px;
+}
+#button2{
+    width: 300px;
+    height: 40px;
+}
+#container{
+    text-align: right;
+}
+</style>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+
+}
+
+.left {
+  width: 40%;
+  height: 300px;
+}
+
+.right {
+  width: 60%;
+  height: 1200px;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+
+
+<br>
+<br>
+
+<div class="row">
+  <div class="column left" style="background-color:white;">
+<div class="col-xs-6" style="padding-left: 60px;  padding-top: 10px;">
+ <h2 style="text-align:left;color:black;font-family:Ubuntu Regular;font-size:150%">Upload document (.txt)</h2> 
+<p><form action="/action_page.php"><input type="file" class="btn btn-info" name="pic" accept=".txt"><br></br><input type="button" class="btn btn-success" id="button" name="button" value="submit" onclick="wait()"/></p>
+  </P>
+</form> 

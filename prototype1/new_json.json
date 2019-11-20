@@ -1,0 +1,193 @@
+{
+    "name": "phrases",
+    "children": [
+        {
+            "name": "Imperative",
+            "children": [
+                {
+                    "size": 4,
+                    "name": "shall"
+                },
+                {
+                    "size": 1,
+                    "name": "will"
+                }
+            ]
+        },
+        {
+            "name": "Weak",
+            "children": [
+                {
+                    "size": 4,
+                    "name": "shall"
+                },
+                {
+                    "size": 1,
+                    "name": "will"
+                },
+                {
+                    "size": 1,
+                    "name": "would"
+                }
+            ]
+        },
+        {
+            "name": "Directive",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "e.g."
+                },
+                {
+                    "size": 1,
+                    "name": "i.e."
+                },
+                {
+                    "size": 1,
+                    "name": "for example"
+                },
+                {
+                    "size": 1,
+                    "name": "figure"
+                },
+                {
+                    "size": 1,
+                    "name": "table"
+                },
+                {
+                    "size": 1,
+                    "name": "note:"
+                }
+            ]
+        },
+        {
+            "name": "Buzzwords",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "fault tolerant"
+                },
+                {
+                    "size": 1,
+                    "name": "high fidelity"
+                },
+                {
+                    "size": 1,
+                    "name": "user friendly"
+                }
+            ]
+        },
+        {
+            "name": "compound_requirements",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "\\band\\b"
+                },
+                {
+                    "size": 1,
+                    "name": "\\bor\\b"
+                }
+            ]
+        },
+        {
+            "name": "Continuance",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "below:"
+                },
+                {
+                    "size": 1,
+                    "name": "as follows:"
+                },
+                {
+                    "size": 1,
+                    "name": "following:"
+                },
+                {
+                    "size": 1,
+                    "name": "listed:"
+                },
+                {
+                    "size": 1,
+                    "name": "in particular:"
+                },
+                {
+                    "size": 1,
+                    "name": "support:"
+                },
+                {
+                    "size": 2,
+                    "name": "and"
+                },
+                {
+                    "size": 1,
+                    "name": ":"
+                }
+            ]
+        },
+        {
+            "name": "Incompleteness",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "tbd"
+                },
+                {
+                    "size": 1,
+                    "name": "tbs"
+                },
+                {
+                    "size": 1,
+                    "name": "tbe"
+                },
+                {
+                    "size": 1,
+                    "name": "tbc"
+                },
+                {
+                    "size": 1,
+                    "name": "tbr"
+                },
+                {
+                    "size": 1,
+                    "name": "not defined"
+                },
+                {
+                    "size": 1,
+                    "name": "not determined"
+                },
+                {
+                    "size": 1,
+                    "name": "but not limited to"
+                },
+                {
+                    "size": 1,
+                    "name": "as a minimum"
+                },
+                {
+                    "size": 1,
+                    "name": "######"
+                }
+            ]
+        },
+        {
+            "name": "option",
+            "children": [
+                {
+                    "size": 1,
+                    "name": "can"
+                },
+                {
+                    "size": 1,
+                    "name": "may"
+                },
+                {
+                    "size": 1,
+                    "name": "optionally"
+                }
+            ]
+        }
+    ]
+}

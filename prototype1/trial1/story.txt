@@ -1,0 +1,20 @@
+US2824:
+As a data owner, I need to support the data migration of master data customers and contacts so that the acquisition of data from legacy to target DCRM meets data quality requirements and to support the data acquisition of MagnaMotion into SFA platforms, reducing duplicates and invalid records from reaching production systems.
+ 
+ 
+Pre-Conditions/Dependency: 
+Account/Contact legacy data meets data quality requirements
+Account/Contact legacy data is deduped - surviving records are identified 
+Agree on approach to support Contacts that are in legacy system considered leads (approx. 2500) -- this effort is post initial effort for Accounts/Contacts and has no impact on transactional data loads
+
+Kerry to provide output fields for additional contacts match analysis to support name match only - Legacy Name, Legacy Address (street1, city, state/prov, postal code country) to Target Name, Target Address (street1, city, state/prov, postal code, country)
+  
+Acceptance Criteria:
+1. Complete Account Matching using modification to production Name/Address match strategy  (Use Fuzzy Street1 + Exact Postal Code) - based on standardized address
+2. Complete Contact matching exact on email + exact on name (for contacts without email) for matching without email, output results must indicate match on linked accounts
+3. Create load files for target systems
+4. Execute routine to load data into SFA 
+5. Create cross reference target to legacy keys
+6. Ensure records are loaded and provide input on errors
+NOTE: Exclude accounts that do not have address; If account is excluded, contact will be excluded as well.
+

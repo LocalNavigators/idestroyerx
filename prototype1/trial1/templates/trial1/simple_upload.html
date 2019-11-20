@@ -1,0 +1,152 @@
+
+{% load static %}
+
+{% block content %}
+
+
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}{{ Form_S.as_p }}
+    <button name="Form_S" type="submit">Upload & Process</button>
+
+<style>
+
+span.b {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: white; 
+}
+span.c {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: white; 
+}
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Requirement Text Analysis</h1>
+<p>This looks for word and phrase patterns that typically result in less than optimal reqs. In the past these rules have been encoded in check lists or kept in senior staff heads. Most organizations have different takes on these rules and they tend to change with time. This is a basic service but critical if the project expects to succeed. This should be the starting point of all your analysis.</p>
+<h3>Weak phrases&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Imperatives&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Directive&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Buzzwords&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;compound_requirements</h3> 
+<span class="b">{{text}}</span><span class="c">{{Imperative}}</span><span class="c">{{Directive}}</span><span class="c">{{Buzzwords}}</span><span class="c">{{compound_requirements}}</span>
+<br>
+<h3>Continuance&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Incompleteness&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;option</h3> 
+<span class="c">{{Continuance}}</span><span class="c">{{Incompleteness}}</span><span class="c">{{option}}</span>
+
+
+
+<br> 
+
+<style>
+textarea {
+  width: 250px;
+  height: 300px;
+  align: center;
+  text-align: left;
+  padding: 5px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+<ul>
+  <li>{{ df }}</li>
+  <li>{{ df1 }}</li>
+  <li>{{ df2 }}</li>
+  <li>{{ df3 }}</li>
+  <li>{{ df4 }}</li>
+  <li>{{ df5 }}</li>
+  <li>{{ df6 }}</li>
+  <li>{{ df7 }}</li>
+</ul>
+
+<style>
+
+span.d {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: white; 
+}
+
+
+<span class="d"></span>
+
+</style>
+<br>
+<br>
+
+<iframe id="encoder_iframe" height=75% width="50%" src="{% url 'testgame' %}">
+</iframe>
+
+<h3>Generic Structure Analysis</textarea></h3>  
+<p>This service looks for and counts reqs at particular levels. It works by triggering a count of reqs following an accessed pattern such as paragraph numbers. These are considered children. This is a higher level service that becomes useful when you have a collection of specifications.
+
+The number of children at a particular level translates to a document shape. For example, if there are more children at lower document paragraph levels than higher levels, the document shape will be a pyramid, suggesting reasonable decomposition and leveling of requirements. There are different document shapes and each have implications. The document shapes are: random, rectangle, pyramid, inverted pyramid, trapezoid and diamond.</p>
+<p> <textarea>{{gsa}}</textarea></p> 
+</textarea></p> 
+<br>
+<iframe id="encoder_iframe" height=50% width="50%" src="{% url 'genric' %}">
+</iframe>
+
+<style>
+textarea {
+  width: 450px;
+  height: 300px;
+  align: center;
+  text-align: left;
+  padding: 5px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+</style>
+<h3> Duplicate phrases</textarea></h3>
+<p>In this scenario an analyst is trying to identify duplicate requirements. This is tricky when the same requirement may be duplicated but written slightly differently. To address this issue, this service includes a mask to filter certain words and increase the possibility of finding similar requirements. This mask can only be matured in an ad-hoc fashion using empirical data. However, even if the mask is not mature, it is amazing how duplicate text can surfaced within a specification as evidenced by our analysis of random specifications accessed from the Internet.</p>
+<p> <textarea>{{dp}}</textarea></p> 
+</textarea></p> 
+<br>
+
+<iframe id="encoder_iframe" height=80% width="80%" src="{% url 'bubble' %}">
+</iframe>
+<style>
+
+span.e {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: white; 
+}
+<span class="e"></span>
+
+</style>
+<h3>Domain Capabilities Analysis</textarea></h3>  
+<p>This service looks for and counts all word instances in the accessed object. Selecting a word from the list and submitting the report will provide the related text. These word instances can be subjected to an internal noise filter to remove words. The user can also enter word patterns to remove additional noise words. This is a higher level service that relies on human ability to recognize patterns when a word or group of words is provided</p>
+<p> <textarea>{{dca}}</textarea></p> 
+</textarea></p> 
+<br>
+<iframe id="encoder_iframe" height=80% width="80%" src="{% url 'stopwords' %}">
+</iframe>
+
+  {% if uploaded_file_url %}
+    <p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+  {% endif %}
+
+{% endblock %}
